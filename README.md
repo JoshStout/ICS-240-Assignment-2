@@ -3,9 +3,9 @@
 Objective
 In this assignment, you are asked to implement a sorted collection called ThingSortedArraySet
 where Thing is a class that represents an object of your choice. The collection implements the set
-semantics which means it does not allow duplicates.
-Requirements
-Part 1: Implement your Thing class
+semantics which means it does not allow duplicates.  
+Requirements  
+Part 1: Implement your Thing class  
 Start by choosing what sort of list you would like to keep. For example:
 • Vacation and travel information
 • Real estate properties
